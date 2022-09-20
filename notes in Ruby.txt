@@ -1,0 +1,41 @@
+string
+numbers: integers and decimals. It is better use floats numbers for mathematical operations
+Boolean
+nil
+Array
+Hash
+Methods
+
+String methods
+.length()
+.strip()
+.upcase()
+.downcase()
+.include? "Manuel"
+.index("aff")
+[0,3]  slice
+.to_i  convierte a integer
+.to_f convierte a float
+
+numbers methods
+.to_s
+.abs()
+.round()
+.ceil()
+.floor()
+
+clas Math
+Math.sqrt(4)
+Math.log(1)
+
+Input data
+gets  Data inputed from user
+.chomp()  Quita el salto de linea
+
+Array methods
+.length()
+.include? "Karen"
+.reverse()
+.sort()   No funciona si hay distintos tipos de datos
+
+Hash methods

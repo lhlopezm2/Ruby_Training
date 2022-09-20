@@ -1,10 +1,11 @@
+Types of objects for storing or transforming data
 string
 numbers: integers and decimals. It is better use floats numbers for mathematical operations
 Boolean
 nil
 Array
 Hash
-Methods
+functions
 
 String methods
 .length()
@@ -38,4 +39,15 @@ Array methods
 .reverse()
 .sort()   No funciona si hay distintos tipos de datos
 
-Hash methods
+if    statements
+case  statements
+for loops
+while loops
+comments 
+reading and writing files
+Handling errors
+classes and objects
+multiple choice quiz
+Inheritance
+Modules --- container of functions. It helps organizing code
+irb --- Command for running commands from Ruby in the terminal
